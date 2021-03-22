@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Minipax-Regular';
+    src: url('assets/fonts/Minipax-Regular.woff') format('woff'),
+    	url('assets/fonts/Minipax-Regular.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
