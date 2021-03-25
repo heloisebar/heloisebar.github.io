@@ -29,6 +29,21 @@
 	font-weight: 500;
 }
 
+.textes-explication{
+	position: absolute;
+	margin-left: 280px;
+	margin-top: 60px; 
+}
+
+.textes-explication ul{
+	list-style: none;
+}
+
+.textes-explication ul li{
+	font-family: 'Minipax-Regular';
+	font-weight: 500;
+}
+
 .hover-title {
 	display: inline;
 	cursor: e-resize;
@@ -161,6 +176,11 @@ body:not(.mobile) .hover-title:hover + .hover-image {
 	border-width: 200px 0 0 200px;
 	border-color: transparent transparent transparent #E4EDD7;
 	position: absolute;
+}
+
+.images-visu img{
+	width: 220%;
+	z-index: 2;
 }
 
 .images img{
